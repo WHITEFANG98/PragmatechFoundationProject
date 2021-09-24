@@ -1,0 +1,45 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+.main-body {
+    background-color: lightgrey;
+    padding: 100px 0px;
+}
+
+.main-face {
+    margin: 0 auto;
+    height: 500px;
+}
+
+.upper-news-face {
+    margin-left: 411px;
+}
+
+.news-l {
+width: 470px;
+display: inline-block;
+height: 260px;
+background-color: yellow;
+}
+
+.news-r {
+    width: 200px;
+    display: inline-block;
+    height: 260px;
+    background-color:lightpink;
+}
+
+.lower-news-face {
+    height: 300px;
+    margin-left: 410px;
+    margin-right: 10px;
+}
+
+.lower-news-items {
+    width: 222px;
+    display: inline-block;
+    height: 240px;
+    background-color: green;
+}
